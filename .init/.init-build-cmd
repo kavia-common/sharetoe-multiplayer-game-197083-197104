@@ -1,0 +1,4 @@
+{
+    "command": "chmod +x startup.sh && sudo ./startup.sh &",
+    "working_directory": "/home/kavia/workspace/code-generation/sharetoe-multiplayer-game-197083-197104/database"
+}
